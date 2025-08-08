@@ -1,1 +1,1 @@
-# Faculaty_Location_Tracker
+# Faculty_Location_Tracker
